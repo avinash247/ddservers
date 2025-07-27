@@ -1,0 +1,13 @@
+{
+  "BACKEND_SERVICE": "http://localhost:5053",
+  "SAVED_SERVERS": [
+    {
+      "name": "Server 1",
+      "address": "http://localhost:5093"
+    },
+    {
+      "name": "Server 2",
+      "address": "http://server2:5093"
+    }
+  ]
+}
