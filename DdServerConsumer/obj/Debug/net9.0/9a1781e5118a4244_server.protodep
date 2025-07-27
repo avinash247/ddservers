@@ -1,2 +1,0 @@
-obj\Debug\net9.0/Server.cs \
-obj\Debug\net9.0/ServerGrpc.cs: ../DdServerGrpc/Protos/server.proto
